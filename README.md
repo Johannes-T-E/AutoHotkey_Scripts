@@ -49,7 +49,7 @@ This repository contains a collection of custom AutoHotkey (AHK) scripts for var
 ### Prerequisites
 Ensure you have **AutoHotkey v1.1** installed on your system. You can download the latest version from the official website:
 
-- [Download AutoHotkey v1.1]([https://www.autohotkey.com/download/1.1/])
+- [Download AutoHotkey v1.1](https://www.autohotkey.com/download/1.1/)
 
 ### How to Use
 1. **Download or Clone this Repository**: Download the files from this repository or clone the repo using Git.
