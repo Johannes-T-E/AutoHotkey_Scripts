@@ -1,4 +1,5 @@
 # AutoHotkey Scripts v1.1
+I never use CapsLock for capitalizing letters, so I repurposed it into a functional key. This project turns CapsLock into a powerful modifier for various shortcuts, improving productivity without interfering with regular typing.
 
 This repository contains a collection of custom AutoHotkey (AHK) scripts for various productivity enhancements. The scripts are written for **AutoHotkey v1.1** and are organized into three main parts:
 
@@ -60,12 +61,6 @@ Feel free to customize any hotkey or action in the script. The script is highly 
 - **Change Hotkeys**: Modify key combinations in the script (e.g., change `CapsLock + S` to another combination).
 - **Add New Functions**: You can add your own key remaps or functions as needed.
 - **Edit Code in VSCode**: If you are working with Visual Studio Code, you can toggle between coding views and the terminal, or run Python files directly using the shortcuts.
-
-## Known Issues
-- The `CapsLock` key may conflict with some other system settings or software that use `CapsLock` for different functions. If you encounter any issues, consider using a different modifier key.
-  
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 If you have suggestions or improvements for this script, feel free to submit an issue or a pull request.
