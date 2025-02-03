@@ -56,12 +56,4 @@ Ensure you have **AutoHotkey v1.1** installed on your system. You can download t
 2. **Run the Script**: Right-click on the script file (e.g., `autohotkey_main.ahk`) and select **Run Script** to start the AHK script.
 3. **Configure Hotkeys**: Modify the script if you'd like to change the hotkeys or add more custom shortcuts. The script uses hotkey combinations, such as `CapsLock + <Key>` or `Ctrl + Shift + <Key>`.
 
-## Customization
-Feel free to customize any hotkey or action in the script. The script is highly customizable to fit your needs. Here are some common ways you can modify the script:
-- **Change Hotkeys**: Modify key combinations in the script (e.g., change `CapsLock + S` to another combination).
-- **Add New Functions**: You can add your own key remaps or functions as needed.
-- **Edit Code in VSCode**: If you are working with Visual Studio Code, you can toggle between coding views and the terminal, or run Python files directly using the shortcuts.
-
-## Contributing
-If you have suggestions or improvements for this script, feel free to submit an issue or a pull request.
 
